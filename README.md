@@ -11,22 +11,17 @@ This project is a website Platzi Conf in Hawaii. It was created using Bootstrap.
 
 ### **Views:**
 
-#### -Blog Home:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard01.jpg)
+#### -part one:
+![](https://github.com/jemosdev/Conf-Hawaii-Platzi/blob/main/assets/images/Clipboard01.jpg)
 
-#### -Blogposts:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard02.jpg)
+#### -part two:
+![](https://github.com/jemosdev/Conf-Hawaii-Platzi/blob/main/assets/images/Clipboard02.jpg)
 
-#### -Blogposts:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard03.jpg)
+#### -part three:
+![](https://github.com/jemosdev/Conf-Hawaii-Platzi/blob/main/assets/images/Clipboard03.jpg)
 
-#### -Blogpost:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard04.jpg)
+#### -part four:
+![](https://github.com/jemosdev/Conf-Hawaii-Platzi/blob/main/assets/images/Clipboard04.jpg)
 
-#### -Blogpost:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard05.jpg)
-
-#### -About me:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard06.jpg)
 
 ### Author: jemosdev
